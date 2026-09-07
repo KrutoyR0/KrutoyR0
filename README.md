@@ -36,6 +36,7 @@
 ## 📌 Проекты
 
 [Простейшая банковская система на С](https://github.com/R0man-gka/bank-c)
+[Простой многопоточный HTTP/1.1 сервер](https://github.com/R0man-gka/HTTP_Server/tree/main)
 
 <br>
 
